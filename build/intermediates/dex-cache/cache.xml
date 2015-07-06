@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sato/Documents/android_workspace/ImageTrimming/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e19387dc3b060af32f5401f84fbe246635256955">
+        <dex dex="/Users/sato/Documents/android_workspace/ImageTrimming/build/intermediates/pre-dexed/debug/android-support-v4-ef682714f276e39e20d53cad621cb3bcf8a7c2ee.jar" />
+    </item>
+
+</items>
